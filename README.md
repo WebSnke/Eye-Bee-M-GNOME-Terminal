@@ -25,7 +25,7 @@ The installation script requires [`dconf`][dconf] and [`GNOME Terminal`][gnome t
     ```
     
     
-2. Run the [`install.sh`](https://github.com/WebSnke/Eye-Bee-M-GNOME-Terminal/source/install.sh) shell script to apply the theme.
+2. Run the [`install.sh`](https://github.com/WebSnke/Eye-Bee-M-GNOME-Terminal/blob/main/source/install.sh) shell script to apply the theme.
     
     ```sh
     sudo bash install.sh
