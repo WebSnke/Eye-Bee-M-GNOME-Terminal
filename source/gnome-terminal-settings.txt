@@ -1,7 +1,10 @@
-[legacy/profiles:/:a082b4cf-78ae-4f36-9b04-f216825f9eb4]
+[legacy/profiles:]
+default='86080989-20cc-4c16-8a0c-4d369618b350'
+list=['86080989-20cc-4c16-8a0c-4d369618b350']
+
+[legacy/profiles:/:86080989-20cc-4c16-8a0c-4d369618b350]
 background-color='rgb(0,0,0)'
 foreground-color='rgb(255,255,255)'
-palette=['rgb(0,0,0)', 'rgb(224,112,30)', 'rgb(38,146,60)', 'rgb(239,183,12)', 'rgb(74,129,194)', 'rgb(248,176,188)', 'rgb(74,129,194)', 'rgb(255,255,255)', 'rgb(0,0,0)', 'rgb(224,112,30)', 'rgb(38,146,60)', 'rgb(211,175,125)', 'rgb(74,129,194)', 'rgb(248,176,188)', 'rgb(74,129,194)', 'rgb(255,255,255)']
+palette=['rgb(0,0,0)', 'rgb(224,112,30)', 'rgb(38,146,60)', 'rgb(242,180,17)', 'rgb(74,129,194)', 'rgb(248,176,188)', 'rgb(74,129,194)', 'rgb(255,255,255)', 'rgb(0,0,0)', 'rgb(224,112,30)', 'rgb(38,146,60)', 'rgb(211,175,125)', 'rgb(74,129,194)', 'rgb(248,176,188)', 'rgb(74,129,194)', 'rgb(255,255,255)']
 use-theme-colors=false
-use-transparent-background=true
 visible-name='default'
