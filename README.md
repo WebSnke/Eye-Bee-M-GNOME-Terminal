@@ -28,7 +28,9 @@ The installation script requires [`dconf`][dconf] and [`GNOME Terminal`][gnome t
     dconf load /org/gnome/terminal/ < gnome-terminal-settings.txt
     ``` 
 
-3. Enjoy!
+3. Set your wallpaper to the [Eye-Bee-M poster](https://www.ibm.com/ibm/history/ibm100/images/icp/W141717T18176O09/us__en_us__ibm100__good_design__eye_bee_m__620x350.jpg).
+
+4. Enjoy!
 
 ## Contribution
 Please report issues/bugs, feature requests and suggestions for improvements to the [issue tracker](https://github.com/WebSnke/Eye-Bee-M-GNOME-Terminal/issues).
