@@ -24,7 +24,7 @@ The installation script requires [`dconf`][dconf] and [`GNOME Terminal`][gnome t
     
 2. Run this command to apply the theme.
     
-    ```
+    ```sh
     dconf load /org/gnome/terminal/ < gnome-terminal-settings.txt
     ``` 
 
