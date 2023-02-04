@@ -15,22 +15,18 @@ The installation script requires [`dconf`][dconf] and [`GNOME Terminal`][gnome t
 
 ### Installation
 
-
-
 1. Clone this repository
 
     ```sh
     git clone https://github.com/WebSnke/Eye-Bee-M-GNOME-Terminal
     cd Eye-Bee-M-GNOME-Terminal/source
+    ```   
+    
+2. Run this command to apply the theme.
+    
     ```
-    
-    
-2. Run the [`install.sh`](https://github.com/WebSnke/Eye-Bee-M-GNOME-Terminal/blob/main/source/install.sh) shell script to apply the theme.
-    
-    ```sh
-    sudo bash install.sh
-    ```
-
+    dconf load /org/gnome/terminal/ < gnome-terminal-settings.txt
+    ``` 
 
 3. Enjoy!
 
