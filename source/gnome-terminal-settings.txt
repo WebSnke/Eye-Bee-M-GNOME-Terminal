@@ -7,4 +7,5 @@ background-color='rgb(0,0,0)'
 foreground-color='rgb(255,255,255)'
 palette=['rgb(0,0,0)', 'rgb(224,112,30)', 'rgb(38,146,60)', 'rgb(242,180,17)', 'rgb(74,129,194)', 'rgb(248,176,188)', 'rgb(74,129,194)', 'rgb(255,255,255)', 'rgb(0,0,0)', 'rgb(224,112,30)', 'rgb(38,146,60)', 'rgb(211,175,125)', 'rgb(74,129,194)', 'rgb(248,176,188)', 'rgb(74,129,194)', 'rgb(255,255,255)']
 use-theme-colors=false
+use-transparent-background=true
 visible-name='default'
