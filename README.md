@@ -1,7 +1,7 @@
 <h1 align="center">Eye-Bee-M GNOME-Terminal</h1>
 
 <p align="center">IBM100 - <a href="https://www.ibm.com/ibm/history/ibm100/us/en/icons/gooddesign/">Good Design Is Good Business</a></p>
-<p align="center">A retro <a href="https://wiki.gnome.org/Apps/Terminal">GNOME Terminal</a> color theme based on Paul Rand's iconic poster.</p>
+<p align="center">A retro <a href="https://wiki.gnome.org/Apps/Terminal">GNOME Terminal</a> color theme based on Paul Rand's iconic design.</p>
 
 ---
 
