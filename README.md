@@ -1,11 +1,10 @@
 <h1 align="center">Eye-Bee-M GNOME-Terminal</h1>
 
-<p align="center">IBM100 - <a href="https://www.ibm.com/ibm/history/ibm100/us/en/icons/gooddesign/">Good Design Is Good Business</a></p>
 <p align="center">A retro <a href="https://wiki.gnome.org/Apps/Terminal">GNOME Terminal</a> color theme based on Paul Rand's iconic design.</p>
 
----
+<p align="center"><a href="https://emoji-o-clock.pages.dev/"><img solid" width="80%" src="https://user-images.githubusercontent.com/94064167/216708576-f81266ac-0b2e-465a-bfb6-77a30624bffa.png"></a></p>
 
-![screenshot](https://user-images.githubusercontent.com/94064167/216708576-f81266ac-0b2e-465a-bfb6-77a30624bffa.png)
+---
 
 ## Getting started
 
@@ -34,9 +33,15 @@ The installation script requires [`dconf`][dconf] and [`GNOME Terminal`][gnome t
 
 5. Enjoy!
 
-## Contribution
-Please report issues/bugs, feature requests and suggestions for improvements to the [issue tracker](https://github.com/WebSnke/Eye-Bee-M-GNOME-Terminal/issues).
+## License
+
+<a href="https://opensource.org/license/gpl-3-0/">
+  <img align="right" height="96" alt="GPL-3.0" src="https://upload.wikimedia.org/wikipedia/commons/9/93/GPLv3_Logo.svg" />
+</a>
+
+This project is licensed under the GPL-3.0.
+
+The full text of the license can be accessed via [this link](https://opensource.org/license/gpl-3-0/) and is also included in the LICENSE file of this software package.
 
 [dconf]: https://wiki.gnome.org/Projects/dconf
 [gnome terminal]: https://apps.gnome.org/en/app/org.gnome.Console
-[issue tracker]: https://github.com/WebSnke/Eye-Bee-M-GNOME-Terminal/issues
